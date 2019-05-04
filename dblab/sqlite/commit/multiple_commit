@@ -1,0 +1,163 @@
+1th:
+execution time in check_sql: 0.000156164169312
+execution time in get_columns: 3.09944152832e-05
+execution time in get_columns: 9.77516174316e-06
+execution time in compare_using_sql: 0.13595199585
+correct answer
+it took 0.136197090149 sec
+2th:
+execution time in check_sql: 5.88893890381e-05
+execution time in get_columns: 3.09944152832e-05
+execution time in get_columns: 9.05990600586e-06
+execution time in compare_using_sql: 0.0904009342194
+correct answer
+it took 0.0905518531799 sec
+3th:
+execution time in check_sql: 5.81741333008e-05
+execution time in get_columns: 3.00407409668e-05
+execution time in get_columns: 9.05990600586e-06
+execution time in compare_using_sql: 0.070188999176
+correct answer
+it took 0.0703439712524 sec
+4th:
+execution time in check_sql: 5.88893890381e-05
+execution time in get_columns: 2.78949737549e-05
+execution time in get_columns: 9.05990600586e-06
+************execution time in compare_using_sql: 122.383540154
+correct answer
+it took 122.383719206 sec
+5th:
+execution time in check_sql: 0.000216960906982
+execution time in get_columns: 4.19616699219e-05
+execution time in get_columns: 1.09672546387e-05
+************execution time in compare_using_sql: 120.851996899
+correct answer
+it took 120.852319002 sec
+6th:
+execution time in check_sql: 0.000748157501221
+execution time in get_columns: 0.000720977783203
+execution time in get_columns: 0.000638961791992
+execution time in compare_using_sql: 0.0858228206635
+correct answer
+it took 0.0880160331726 sec
+7th:
+execution time in check_sql: 0.000705003738403
+execution time in get_columns: 0.000617027282715
+execution time in get_columns: 0.000630855560303
+execution time in compare_using_sql: 0.0827169418335
+correct answer
+it took 0.0847148895264 sec
+8th:
+execution time in check_sql: 0.000769853591919
+execution time in get_columns: 0.000671863555908
+execution time in get_columns: 0.000617980957031
+execution time in compare_using_sql: 0.0803468227386
+correct answer
+it took 0.0824518203735 sec
+9th:
+execution time in check_sql: 5.69820404053e-05
+execution time in get_columns: 8.29696655273e-05
+execution time in get_columns: 1.00135803223e-05
+execution time in compare_using_sql: 0.0276370048523
+correct answer
+it took 0.0278680324554 sec
+10th:
+execution time in check_sql: 4.50611114502e-05
+execution time in get_columns: 2.31266021729e-05
+execution time in get_columns: 9.05990600586e-06
+execution time in compare_using_sql: 0.0596880912781
+correct answer
+it took 0.0598180294037 sec
+11th:
+execution time in check_sql: 5.91278076172e-05
+execution time in get_columns: 3.91006469727e-05
+execution time in get_columns: 1.00135803223e-05
+execution time in compare_using_sql: 8.60691070557e-05
+correct answer
+it took 0.000247001647949 sec
+12th:
+execution time in check_sql: 2.00271606445e-05
+execution time in get_columns: 2.00271606445e-05
+execution time in get_columns: 7.86781311035e-06
+execution time in compare_using_sql: 7.70092010498e-05
+correct answer
+it took 0.000146150588989 sec
+13th:
+execution time in check_sql: 1.8835067749e-05
+execution time in get_columns: 1.78813934326e-05
+execution time in get_columns: 7.86781311035e-06
+execution time in compare_using_sql: 7.41481781006e-05
+correct answer
+it took 0.000139951705933 sec
+14th:
+execution time in check_sql: 0.000261068344116
+execution time in get_columns: 0.000242948532104
+execution time in get_columns: 0.000194072723389
+execution time in get_result: 0.000737905502319
+execution time in get_result: 0.000733852386475
+correct
+it took 0.00273990631104 sec
+15th:
+execution time in check_sql: 0.000241994857788
+execution time in get_columns: 0.000255107879639
+execution time in get_columns: 0.000183820724487
+execution time in get_result: 0.0011579990387
+execution time in get_result: 0.000622987747192
+correct
+it took 0.00286293029785 sec
+16th:
+execution time in check_sql: 4.00543212891e-05
+execution time in get_columns: 2.40802764893e-05
+execution time in get_columns: 9.05990600586e-06
+execution time in compare_using_sql: 0.0277609825134
+correct answer
+it took 0.0278718471527 sec
+17th:
+execution time in check_sql: 5.00679016113e-05
+execution time in get_columns: 2.59876251221e-05
+execution time in get_columns: 1.59740447998e-05
+execution time in compare_using_sql: 0.000131130218506
+correct answer
+it took 0.000318050384521 sec
+18th:
+execution time in check_sql: 0.000105857849121
+execution time in get_columns: 9.48905944824e-05
+execution time in get_columns: 5.29289245605e-05
+execution time in compare_using_sql: 0.05952501297
+correct answer
+it took 0.0598139762878 sec
+19th:
+execution time in check_sql: 0.000113010406494
+execution time in get_columns: 8.60691070557e-05
+execution time in get_columns: 6.50882720947e-05
+execution time in compare_using_sql: 0.0575268268585
+correct answer
+it took 0.0578339099884 sec
+20th:
+execution time in check_sql: 0.000113010406494
+execution time in get_columns: 8.20159912109e-05
+execution time in get_columns: 6.50882720947e-05
+execution time in compare_using_sql: 0.12203502655
+correct answer
+it took 0.122333049774 sec
+21th:
+execution time in check_sql: 0.000159025192261
+execution time in get_columns: 0.000136137008667
+execution time in get_columns: 7.20024108887e-05
+execution time in compare_using_sql: 0.000128984451294
+correct answer
+it took 0.000529050827026 sec
+22th:
+execution time in check_sql: 0.000257968902588
+execution time in get_columns: 0.000286817550659
+execution time in get_columns: 0.000271081924438
+execution time in compare_using_sql: 0.380896091461
+correct answer
+it took 0.381749153137 sec
+23th:
+execution time in check_sql: 0.000278949737549
+execution time in get_columns: 0.000251054763794
+execution time in get_columns: 0.000249147415161
+execution time in compare_using_sql: 0.38130903244
+correct answer
+it took 0.38213300705 sec
