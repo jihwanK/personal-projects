@@ -603,3 +603,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,node,java,linux,macos,windows,python,django,visualstudiocode,jupyternotebooks
 
+
+## Added by Ji Hwan
+# MSc project
+*.bin*
