@@ -1,7 +1,7 @@
 ## List of Projects
 
 - MSc Project (Dissertation)
-- Homeownership rates anlysis
+- Homeownership rates anlaysis
 - B.S Capstone design
 - New iPad OS UI
 - Bitcoin price prediction
