@@ -1,10 +1,11 @@
-# jihwan's personal project
+# List of Projects
 
-## capstone
-## new ipad ui
-## bitcoin price prediction
-## line maze robot
-## shorten url	
-## dblab
-## spyapp
-## tripadvisor
+## MSc Project (Dissertation)
+## B.S Capstone project
+## New iPad UI
+## Bitcoin price prediction
+## Line maze robot
+## Shorten URL
+## Customised Online Judger
+## Spyapp detector
+## Customer reviews analysis
