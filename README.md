@@ -1,4 +1,17 @@
 ## List of Projects
 
-- SW Project
-- ML Project
+### SW Project
+- New iPad OS UI (Coursework)
+- Line maze robot (Coursework)
+- Shorten URL
+- Customised online judger
+- Spyapp detector
+  
+### ML Project
+- MSc Project (Dissertation)
+- Homeownership rates analysis
+- B.S Capstone design
+- Bitcoin price prediction (Coursework)
+- Customer reviews analysis
+- Flight status prediction (Coursework)
+- Speech recognition (Coursework)
