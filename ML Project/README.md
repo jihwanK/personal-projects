@@ -7,4 +7,5 @@
 - Customer reviews analysis
 - Flight status prediction (Coursework)
 - Speech recognition (Coursework)
-
+- Genetic data analysis
+- Persona Chatbot
