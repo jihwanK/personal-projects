@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yoHXt_g5)
 # 프로젝트 이름
 
 **푸와 친구들의 고민상담**
@@ -134,11 +133,13 @@
 
 - 팀장; 전반적인 프로젝트 관리
 - 프로젝트 설계 및 프롬프트 구현
+- LangChain을 활용하여 chat memory와 chain 구현
+- Vector Store 구현
 - 전체 코드 병합 및 리팩토링
 
 ### 김서현
 
-- Chat memory와 Chain 구현
+- LangChain을 활용하여 chat memory와 chain 구현
 - 데모 페이지 구현 (streamlit 활용)
     
 ### 최정은
@@ -151,8 +152,6 @@
 ### 김민수
 
 - 주제 선정에 관한 고민
-- 챗봇 프롬프트 작성
-
 
 ### 박주연
 
@@ -161,48 +160,12 @@
 
 <br>
 
-## 5. 개발 기간 및 작업 관리
+## 5. 개발 기간
 
 ### 개발 기간
 - 전체 개발 기간: 2024-08-12 ~ 2024-08-19
 - 기능 구현: 2024-08-14 ~ 2024-08-17
 - 수정 및 보완: 2024-08-18 ~ 2024-08-19
-  
-<br>
-
-### 작업 관리
-#### Error handling
-- 아래와 같은 오류가 발생했습니다.
-
-```python
-TypeError: FAISS.__init__() got an unexpected keyword argument 'allow_dangerous_deserialization'
-```
-
-### 설명
-
-- langchain v0.1.0에서는 실행되지 않습니다
-
-
-### 해결
-
-- 명령 프롬프트(또는 터미널)에서 다음 명령을 실행해 langchain을 최신버전으로 업그레이드합니다.
-
-```python
- pip install --upgrade langchain
-```
-
-
-<br>
-
-## 5. 프로젝트 후기
-
-### 프로젝트 후기 작성
-- RAG/LangChain 등 생소한 개념이 헷갈리고 정리가 안되는 상황에서 프로젝트 진행했지만 모르는 개념에 대해 관련 튜토리얼 영상 시청 및 팀원들과의 대화를 통해 해결하는 기회를 가짐
-- 모듈별 파이썬 코드 내용 이해 및 구현이 어려웠고, 깃헙이라는 협업툴 사용 적응이 필요했지만 프로젝트를 통해 깃헙에 익숙해지고 코딩 협업하는 좋은 경험을 쌓음
-- 모듈화와 객체 지향 프로그래밍을 통해, 각 기능을 독립적인 클래스로 분리함으로써 시스템의 복잡성을 체계적으로 줄이고 유지보수를 용이하게 할 수 있었음
-- 개념들로만 알고 있던 것들을 이용하여 실제로 구현해보고 완성을 해볼 수 있어서 좋은 경험이었음
-
-
 
 
 <br>
